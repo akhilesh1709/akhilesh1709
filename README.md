@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Deep Learning, Machine Learning, Computer Vision, Natural Language Processing**
 
-- 🌱 I’m currently learning **Python, ML and Deep Learning**
+- 🌱 I’m currently learning **Web development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
