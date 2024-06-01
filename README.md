@@ -25,4 +25,4 @@
 ![Socials](https://user-images.githubusercontent.com/83088512/214298255-edf97676-06ff-4400-8062-a54aad94ad4b.png)
 
 <a href="mailto:tsakhilesh@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://github.com/SG-Akshay10">!![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://github.com/akhilesh1709">!![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
