@@ -22,3 +22,13 @@
 <a href="mailto:tsakhilesh@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://github.com/akhilesh1709">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/akhilesh-t-s-829561224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam14243" height=30 width=25/></a>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh1709&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh1709" /> </p>
+
+   
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam14243&show_icons=true&locale=en&layout=compact" alt="sam14243" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akhilesh1709&show_icons=true&locale=en" alt="hehe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilesh1709&" alt="akhilesh1709" /></p>
