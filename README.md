@@ -24,10 +24,9 @@
 
 <a href="mailto:tsakhilesh@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://github.com/akhilesh1709">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
-
-[![An image of @akhilesh1709's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilesh1709)](https://holopin.io/@akhilesh1709)
 <a href="https://www.linkedin.com/in/akhilesh-t-s-829561224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sam14243" height=30 width=25/></a>
 
+[![An image of @akhilesh1709's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akhilesh1709)](https://holopin.io/@akhilesh1709)
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam14243&show_icons=true&locale=en&layout=compact" alt="sam14243" /></p>
 
